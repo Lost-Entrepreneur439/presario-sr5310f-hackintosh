@@ -906,13 +906,13 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>W875102VU000A</string>
+			<string>W870903660005</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>rIejKtZo</data>
+			<data>NKOVXJOf</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -920,9 +920,9 @@
 			<key>SystemProductName</key>
 			<string>Macmini1,1</string>
 			<key>SystemSerialNumber</key>
-			<string>W8752YZRU35</string>
+			<string>W8710VYWU35</string>
 			<key>SystemUUID</key>
-			<string>3EAA79B0-F92E-4F33-8D4D-69B6DAE2532C</string>
+			<string>288F20D5-A4CD-4B53-A9F6-E6C7D7C8A638</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
