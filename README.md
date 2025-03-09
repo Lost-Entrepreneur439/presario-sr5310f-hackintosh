@@ -20,18 +20,13 @@ Follow the "Downloading macOS section in the Dortania guide to get macOS. **Supp
 
 # Set BIOS settings as follows
 
-* Authentication -> Secure Boot -> Disabled
-* Boot Options -> Launch CSM -> Never
+* Power -> XD (Execute Disable) -> Enabled
 
 # Credits
 
-* [Acidanthera](https://github.com/acidanthera) -- Made OpenCore, AppleALC, BlueToolFixup, Lilu, VirtualSMC and WhateverGreen
-* [OpenIntelWireless](https://github.com/OpenIntelWireless) -- Made airportitlwm
-* [FireWolf](https://github.com/0xFireWolf) -- Made RealtekCardReader
-* [Laura Müller](https://github.com/Mieze) -- Made RealtekRTL8111 
-* [USBToolBox](https://github.com/USBToolBox) -- Made USBToolBox
-* [Apple](https://www.apple.com/ca/) -- Made macOS
-* [Acer](https://www.acer.com/us-en) -- Made the Aspire TC-780
+* [Acidanthera](https://github.com/acidanthera) -- Made OpenCore and VirtualSMC
+* [khronokernel](https://github.com/khronokernel) -- Made VoodooHDA-FAT
+* [Apple](https://www.apple.com/ca/) -- Made Mac OS X
+* [Compaq](https://www.compaq.com/) -- Made the Presario SR5310F
 * [Dortania](https://github.com/dortania) -- Made the OpenCore install guide which was used to make this EFI
-* [CorpNewt](https://github.com/corpnewt) -- Helped me fix graphics
-* MeGaLoDoN (No GitHub or website) -- Helped me fix Bluetooth
+* [Dr. Hurt](https://www.insanelymac.com/forum/profile/21972-dr-hurt/) -- Made a guide which helpd me fix graphics
